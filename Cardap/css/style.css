@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    border: solid  rgba(160, 39, 39, 0.781) 15px;
+    background-image: url(/Cardap/imgs/logo-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+h1{
+    color: rgba(160, 39, 39, 0.781);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: rgba(160, 39, 39, 0.781);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 700px;
+    font-size: 20px;
+}
+
+h4{
+    color: rgba(231, 92, 37, 0.781);
+    font-family: fantasy;
+    font-size: 20px;
+}
